@@ -42,7 +42,7 @@ function addToCart(name, price){
                     name={name}
                     water={water}
                     light={light}
-                    proce={price}
+                    price={price}
                     />
                     <button onClick={() => addToCart(name, price)}>Ajouter</button>
                     </div>
